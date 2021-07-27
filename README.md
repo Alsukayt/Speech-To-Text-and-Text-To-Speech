@@ -16,10 +16,10 @@ using :
 
 ### Configuration:
 
-1- go to your ibm account 
-2- select catlog and choose speech to text servies and Text to Speech servies 
-3- select free plan
-4- copy the api key 
+- go to your ibm account 
+- select catlog and choose speech to text servies and Text to Speech servies 
+- select free plan
+- copy the api key 
 
 ----------------------------------------
 
