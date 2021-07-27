@@ -34,7 +34,7 @@ using :
 
 ### To start:
 
-to test write this code 
-python transcribe.py -t [ Time secend ]
+to test write this code :
 
-the text file names as output.txt and output.mp3 
+- python transcribe.py -t [ Time ]
+- The text file names as output.txt and output.mp3 
